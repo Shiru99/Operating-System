@@ -50,4 +50,8 @@ Replace abcd with vmware version : wget https://github.com/mkubecek/vmware-host-
 
 ## 
 
-[![VMware installation](https://img.youtube.com/vi/******/0.jpg)](https://www.youtube.com/watch?v=******)
+[![VMware installation](https://img.youtube.com/vi/Eq0rPj0dRGA/0.jpg)](https://www.youtube.com/watch?v=Eq0rPj0dRGA)
+
+##
+
+License Key : YF390-0HF8P-M81RQ-2DXQE-M2UT6
